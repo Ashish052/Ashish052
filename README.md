@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashish052
 - 👀 I’m interested in Programming and games
-- 🌱 I’m currently learning vue Js
+- 🌱 I’m currently Working Full Stack
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me (9843083493)
 
